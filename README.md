@@ -1,6 +1,6 @@
 # Nexlevr Internship – Beginner Task 1: Public API Integration
 
-**Organization:** [Nexlevr](https://github.com/Nexlevr)
+**Organization:** [Nexlevr](https://github.com/Nexlevr)  
 **Internship Track:** Beginner  
 **Task:** 1 of 3 – Call a Public API  
 **API:** Open Food Facts  
